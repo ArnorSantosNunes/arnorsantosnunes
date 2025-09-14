@@ -32,3 +32,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 
 ##
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArnorSantosNunes&show_icons=true&theme=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnorSantosNunes&layout=compact)
+
+
