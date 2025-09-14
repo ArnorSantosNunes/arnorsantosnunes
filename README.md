@@ -1,7 +1,7 @@
 ## Oiii eu sou o Arnor Nunes, criadora de conteúdo de programação e tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+💻 Desenvolvedor Fullstack com foco em Python.
+Atualmente estou aprofundando meus estudos em automação de processos e no desenvolvimento de páginas modernas e responsivas, buscando sempre aplicar as melhores práticas do mercado.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
